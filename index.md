@@ -1,57 +1,24 @@
 ---
-title: Boston-Mills Fact Sheet
-description: Description of the bedrock hydrogeologic setting in the Boston-Mills Area (Caledon East bedrock valley)
+title: Planning
+description: Description of ORMGP History and program direction
 author: Oak Ridges Moraine Groundwater Program
-date: 2022-07-07
+date: 2022-21-11
 output: html_document
 ---
-![*Figure 1: Location of Boston-Mills*](Images/boston_mill_cover.png)
-_Figure 1: Location of Boston-Mills_
 
-![*Figure 2: Aerial photo of Boston-Mills*](Images/boston_aerial.jpg)
-_Figure 2: Aerial photo of Boston-Mills_
+# Planning
 
-# Background
+Since its inception in 2001, the Oak Ridges Moraine Groundwater Program has had a strong technical and scientific direction. However, there remains a need to ensure that the scientific understanding gained from the program, as well as from other programs (e.g. Source Water Protection), continues to support day-to-day decision making. This is done by ensuring that groundwater related policies are scientifically defensible.
 
-A borehole was drilled and a well installed at this location in 2006 as part of investigations studying buried bedrock valley aquifer systems in southern Ontario (Figure 1; Davies et al., 2008).  Seismic geophysical surveys helped to situate this well close to the thalweg of the Caledon East buried bedrock valley.  The Caledon East buried bedrock valley which is believed to be a tributary or re-entrant channel trending roughly west-east into the main Laurentian bedrock valley system situated between Georgian Bay and Lake Ontario (Figure 2 and Figure 3).  Details regarding the sediment stratigraphy within the main Laurentian and tributary valleys and groundwater movement within these features remain sketchy despite the valley having been known for over 100 years (Spencer, 1881; 1890).
+In 2004-2005 a core team of Municipal and Conservation Authority planners from the partner agencies embarked on a process to develop science-based generic policies under the ORMGP (previously referred to as YPDT-CAMC) partnership. At the time, a key goal of the work was to better integrate watershed policies (typically developed through various Conservation Authority driven watershed studies) with Official Plan policies (as developed through various regional official planning processes). A report (prepared by Ogilvie, Ogilvie and Company, and Anthony Usher Planning) from this study entitled “Watershed Planning – From Recommendations to Municipal Policies: A Guidance Document” was released in June 2005 as a working draft. The report provides generic policies that watershed and municipal planners could reference: a) when writing watershed plan policy recommendations; and b) to obtain guidance on how these policies could be implemented through municipal official plans.
 
-The Boston Mills monitoring well is screened within a 20m thick sand and gravel unit (150 to 171 mbgs) situated above shale bedrock.  The interpreted thickness and extent of this basal aquifer (shown as the Scarborough aquifer complex) is illustrated on Figure 5 and Figure 6.
+The study generated policy guidance under four broad areas that are addressed in watershed planning:
+* Water
+* Natural History
+* Landform Conservation
+* Infrastructure
 
-# Documents
-YPDT-CAMC Boston Mills borehole log [Download pdf](PDFS/BostonMills%20BH.jpg)​
+The study was ground-breaking for the time providing: direction to watershed planners such that their watershed plans would facilitate the transfer of the science-based recommendations into official plan policies; and direction to municipal planners to demand watershed outcomes that are readily transferable into Official Plans.
 
-Davies, S.D., S. Holysh and D.R. Sharpe.  2008.  An investigation of the buried bedrock valley aquifer system in the Caledon East area, Southern Ontario.  Ontario Geological Survey, Groundwater Resources Study 9, 42p. [Download pdf](PDFS/Davies%20et%20al_2008_An%20Investigation%20of%20the%20Buried%20Bedrock%20Valley%20Aquifer%20System_5286.pdf)
-
-![*Figure 3: Boston-Mills borehole location*](Images/boston_1.png)
-_Figure 3: Boston-Mills borehole location_
-
-
-![*Figure 4: Seismic reflection survey being conducted along Airport Road*](Images/boston_seismic.jpg)
-_Figure 4: Seismic reflection survey being conducted along Airport Road_
-
-
-![*Figure 5: Interpreted regional bedrock topography.*](Images/boston_3.png)
-
-_Figure 5: Interpreted regional bedrock topography. Blue shading delineates the interpreted Laurentian valley. Figure from Davies et al.2008_
-
-
-![*Figure 6: Interpreted Bedrock*](Images/boston_4.png)
-
-_Figure 6: Interpreted local bedrock topography. Figure from Davies et al. 2008_
-
-
-![*Figure 7: Cross section Location*](Images/boston_5.png)
-
-_Figure 7: Cross section location along Caledon East buried bedrock valley_
-
-
-![*Figure 8: West-East cross section*](Images/boston_6.png)
-
-_Figure 8: West-East cross section along the Caledon East buried bedrock valley showing interpreted thickness of basal channel aquifer (shown as Scarborough aquifer complex.)_
-
-[^1].
-
-[^2].  
-
-[^1]: Spencer, J.W. 1890.  Origin of the basins of the Great Lakes of America.  American Geologist, 7, 86-97.​
-[^2]: Spencer, J.W. 1881.  Discovery of the preglacial outlet of the basin of Lake Erie into that of Lake Ontario.  Canadian Naturalist, 10, 65-79.​
+Upon its release, the longer term objective was to have the policies be refined and updated as planners from the partner agencies tested their effectiveness in their day to day work. However, in 2005 – 2006, Source Water Protection initiatives were launched across the Province, superseding the short-term need for further work on this initiative. Source Water Protection work has led to the creation of approved Source Water Protection Plans across the Province which outline groundwater protection policies to address the protection of Ontario’s drinking water sources. The Source Water Protection Plans are available for review here:
+1. **CTC Region** (https://ctcswp.ca/protecting-our-water/the-ctc-source-protection-plan/)
